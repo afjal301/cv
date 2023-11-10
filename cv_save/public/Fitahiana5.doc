@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://timesheet.evolutis.mg/assets/dist/css/adminlte.min.css">
+    <title></title>
+  </head>
+    <body>
+    <div style="padding-left:12%;">
+      <b>RANDRIAMPANALINDAHY Judicaël<br>
+                                                                                        
+    </div>
+    <center>
+      <b><u>RAPPORT D’ACTIVITES –
+      Octobre 2023<br></u></b><br>
+
+      <table border="1" width=100%>
+        <tr style="text-align: center;">
+          <th width=50%>Activités</th>
+          <th>Réalisations</th>
+        </tr>
+                <tr>
+          <td style="text-align: center;font-weight: bold;">Administratives (152.00 heures)</td>
+          <td>
+                     <dd><li><b>ADMIN : (152.00 heures)</b><br><br><dd> - developpment de partie Backend de projet CV</dd><br><dd> - Suite de developpement de  la partie Backend de CV</dd><br><dd> - Developpement de la prtie admin de CV</dd><br><dd> - Suite au Developpement de l'application CV partie admin</dd><br><dd> - Rectification des Erreur de l'application CV</dd><br><dd> - verification de serveur proxmox</dd><br><dd> - securisation de proxmox</dd><br><dd> - renforcement de securisation de proxmox</dd><br><dd> - securisation de debian dans le proxmox</dd><br><dd> - renforcement de securisation de debian</dd><br><dd> - configuration de l'adresse ip publique</dd><br><dd> - configuration de securisation de l'adresse ip publique</dd><br><dd> - configuration de redirection de ip publique</dd><br><dd> - configuration de debian pour la redireaction de l'adresse ip publique</dd><br><dd> - reconfiguration de module de serveur en debian </dd><br><dd> - deploiement de site</dd><br><dd> - developper le module erreur de site</dd><br><dd> - finalisation de code de site</dd><br><dd> - deploiement de site en nouveau </dd><br>          </li><br>
+                    </td>
+        </tr>
+                              </table>
+    </center><br><br>
+    <div style="text-align: right; padding-right: 20%;">
+    Antananarivo, le
+    26 Octobre 2023     </div>
+  </body>
+</html>
+<footer class="main-footer">
+    <strong>Copyright &copy; 2021 <a href="https://timesheet.evolutis.mg/index.php/welcome/comptercvinclus">G-Tis</a>.</strong>
+    Tous droits réservés.
+    <div class="float-right d-none d-sm-inline-block">
+      <b>Version</b> 3.0
+    </div>
+  </footer>
+
+  <!-- Control Sidebar -->
+  <aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+  </aside>
+  <!-- /.control-sidebar -->
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery -->
+<!-- <script src="https://timesheet.evolutis.mg/assets/plugins/jquery/jquery.min.js"></script> -->
+<!-- <script src="https://timesheet.evolutis.mg/assets/js/jquery.table2excel.js"></script> -->
+<!-- <script src="https://timesheet.evolutis.mg/assets/js/excel-bootstrap-table-filter-bundle.js"></script> -->*
+<!-- datatable -->
+<script src="https://timesheet.evolutis.mg/assets/js/jquery-3.5.1.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/js/jquery.dataTables.min.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/js/dataTables.fixedHeader.min.js"></script>
+<!-- export datatable -->
+<script src="https://timesheet.evolutis.mg/assets/js/dataTables.buttons.min.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/js/buttons.flash.min.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/js/jszip.min.js"></script>
+<!-- <script src="https://timesheet.evolutis.mg/assets/js/pdfmake.min.js"></script> -->
+<script src="https://timesheet.evolutis.mg/assets/js/vfs_fonts.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/js/buttons.html5.min.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/js/buttons.print.min.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/js/buttons.colVis.min.js"></script>
+<!-- jQuery UI 1.11.4 -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/jquery-ui/jquery-ui.min.js"></script>
+<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+<script>
+  $.widget.bridge('uibutton', $.ui.button)
+</script>
+<!-- Bootstrap 4 -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- ChartJS -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/chart.js/Chart.min.js"></script>
+<!-- Sparkline -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/sparklines/sparkline.js"></script>
+<!-- JQVMap -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/jqvmap/jquery.vmap.min.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
+<!-- jQuery Knob Chart -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/jquery-knob/jquery.knob.min.js"></script>
+<!-- daterangepicker -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/moment/moment.min.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/plugins/daterangepicker/daterangepicker.js"></script>
+<!-- Tempusdominus Bootstrap 4 -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+<!-- DataTables -->
+<!-- <script src="https://timesheet.evolutis.mg/assets/plugins/datatables/jquery.dataTables.js"></script> -->
+<!-- <script src="https://timesheet.evolutis.mg/assets/plugins/datatables-bs4/js/dataTables.bootstrap4.js"></script> -->
+<!-- Bootstrap4 Duallistbox -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/bootstrap4-duallistbox/jquery.bootstrap-duallistbox.min.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/plugins/dataTables.responsive.min.js"></script>
+<!-- repeat -->
+<script src="https://timesheet.evolutis.mg/assets/js/jquery.repeater.js"></script>
+<!-- Select2 -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/select2/js/select2.full.min.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/plugins/responsive.bootstrap4.min.js"></script>
+<!-- overlayScrollbars -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+<!-- AdminLTE App -->
+<script src="https://timesheet.evolutis.mg/assets/dist/js/adminlte.js"></script>
+<script src="https://timesheet.evolutis.mg/assets/dist/js/demo.js"></script>
+<!-- Toastr -->
+<script src="https://timesheet.evolutis.mg/assets/plugins/toastr/toastr.min.js"></script>
+<!-- <script type="text/javascript" src="https://timesheet.evolutis.mg/assets/js/liste.js"></script> -->
+<script type="text/javascript" src="https://timesheet.evolutis.mg/assets/js/liste.js?id=1698301768.3054"></script>
+</body>
+</html>
